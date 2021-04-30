@@ -1,0 +1,7 @@
+#Tab1 {
+  overflow-y: scroll !important;
+  padding:18px !important;
+}
+#Tab2 p, #Tab3 p{ text-align: left !important; padding: 5px;}
+#Tab1 h2{margin-top:40px}
+#Tab1 h4{margin:-10px 0;color: black;font-size: 15px} 
